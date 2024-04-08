@@ -7,4 +7,6 @@ const app = express();
 app.use(bodyParser.json())
 app.use(todosRouter)
 
-app.listen(3000);
+app.listen(3000, () => {
+    console.log('Server started');
+});
