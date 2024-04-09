@@ -13,7 +13,7 @@ To start using this project, follow these steps:
 
 1. **Clone the project:**
     ```
-    git clone <repository_url>
+    git clone git@github.com:s15-coder/Typescript-starter-project.git
     ```
    
 2. **Install dependencies:**
